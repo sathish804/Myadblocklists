@@ -3,8 +3,7 @@ condenast.map.fastly.net
 api.condenast.io
 api.imotech.tech
 config.imoim.app
-na-gdl.news-cdn.site
-gdl.news-cdn.site
+*gdl.news-cdn.site
 *.likee.video
 *.bigo.sg
 *.bigolive.tv
@@ -15,7 +14,5 @@ api.liketech.tech
 growth-pa.googleapis.com
 regioninfo-pa.googleapis.com
 exo.nel.measure.office.net
-web.facebook.com
-star.c10r.facebook.com
-graph.facebook.com
+*.facebook.com
 socks.sharemasala.com
