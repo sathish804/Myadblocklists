@@ -1,1 +1,1 @@
-.*alisg.byteoversea.com
+*.alisg.byteoversea.com
